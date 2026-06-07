@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 📝 I regularly write articles on [Mathematics and System Design](Mathematics and System Design)
+- 📝 I regularly write articles on **Mathematics and System Design**
 
 - 💬 Ask me about **Node.js, System Design, React.js, Langchain, Langgraph, MCP, Machine Learning, Deep Learning, Mathematics**
 
